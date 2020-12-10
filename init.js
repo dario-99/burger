@@ -6,4 +6,5 @@ var con = {
     database: "burger"
 };
 
+
 module.exports.con = con;
