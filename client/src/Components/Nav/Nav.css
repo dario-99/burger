@@ -1,0 +1,13 @@
+a {
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: lightgray;
+    border-radius: 8px;
+    color: black;
+}

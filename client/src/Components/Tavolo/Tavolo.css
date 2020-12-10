@@ -1,0 +1,38 @@
+.Tavolo {
+    margin: 2rem;
+}
+
+.Tavolo-page-title {
+    margin-top: 3rem;
+}
+
+.Tavolo-page-title #title--text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.Tavolo-Buttons {
+    margin-top: 3rem;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.Tavolo-Buttons #--B {
+    margin: 2rem;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: content-box;  
+    width: 60vw;
+    height: auto;
+    padding: 2.3rem;  
+    border: 3px solid black;
+    text-align: center;
+}
+
+.Tavolo-Buttons #--Links {
+    text-decoration: none;
+    color: black;
+}

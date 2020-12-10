@@ -1,0 +1,22 @@
+.Tavolo-page-head {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+#page-head--BM {
+    max-width: 8vw;
+    height: 6vh;
+}
+
+#page-head--PLH {
+    width: 15vw;
+    height: 8vh;
+}
+
+#page-head--SCNR {
+    max-width: 8vw;
+    height: 6.5vh;
+}
